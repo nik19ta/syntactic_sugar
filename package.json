@@ -1,0 +1,14 @@
+{
+  "name": "syntactic_sugar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "nik19ta",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
