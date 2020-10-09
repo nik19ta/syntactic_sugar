@@ -15,10 +15,10 @@ const floor = (num: number): number => {
 const str = (data: number): string => {
     return data.toString();
 }
-const int = (num: number): number => {
+const int = (num: string): number => {
     return +num;
 }
-const float = (num: number): number => {
+const float = (num: string): number => {
     return +(num);
 }
 const tf = (num: any, poin: number, type: boolean): number => {
